@@ -9,6 +9,3 @@ node server.js               # Node.js
 
 #Run the frontend
 npm start
-
-#Access the app at:
-http://localhost:3000
